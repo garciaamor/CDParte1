@@ -4,7 +4,7 @@ import java.io.IOException;
 
 /**
  * Clase Principal del proyecto, que contiene el main
- * Crea objetos a partir de los constructores de la ClaseOperacion y va asignandole valores a las variables que recibe
+ * Crea objetos a partir de los constructores de la ClaseOperacion y va asignando valores al int resultX en funcion de las variables que recibe
  * @author jgarciaamor
  */
 public class Principal {
