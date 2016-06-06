@@ -15,9 +15,12 @@ public class Principal {
          */
         ClaseOperacion constr1 = new ClaseOperacion(10, 20);
         /**
-         * 
+         * Se declara una variable de tipo int llamada result1 y se le asigna la funcion result del objeto constr1
          */
         int result1 = constr1.result;
+        /**
+         * Mostramos por pantalla la variable de tipo int result1 declarada y asignada anteriormente
+         */
         System.out.println("Es: " + result1);
         
         
